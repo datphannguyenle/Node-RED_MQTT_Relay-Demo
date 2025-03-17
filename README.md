@@ -183,7 +183,3 @@ You will receive a response message indicating the current state of the relay, f
 ```
 Relay 0 is now ON
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
